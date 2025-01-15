@@ -32,4 +32,5 @@
 		"**/lib/comments.dart"
 	],
 	"eslint.lintTask.enable": true,
+	"commentTranslate.hover.enabled": false,
 }
